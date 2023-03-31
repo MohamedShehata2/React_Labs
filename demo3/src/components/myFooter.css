@@ -1,0 +1,21 @@
+.bi-facebook {
+  color: #3b5998; /* Facebook blue */
+}
+
+.bi-twitter {
+  color: #1da1f2; /* Twitter light blue */
+}
+
+.bi-instagram {
+  background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888, #8a3ab9, #4d4d9d);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.bi-linkedin {
+  color: #0077b5; /* LinkedIn blue */
+}
+
+.bi-github {
+  color: #333; /* GitHub black */
+}
